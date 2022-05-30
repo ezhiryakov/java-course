@@ -6,3 +6,8 @@ Repository for homework
 cd Archiver  
 javac Archiver.java  
 java Archiver aAbbBBcccCCCddddDDDDeEffFFgggGGGhH  
+
+### Linter
+cd Linter  
+javac Linter.java  
+java Linter "{{}}<>{<>}{}{}{<>}({})"  
